@@ -1,11 +1,11 @@
-# 🤖 Computational Intelligence Laboratory — AUT
+#  Computational Intelligence Laboratory — AUT
 
 This repository contains code implementations, experiments, and reports from the **Computational Intelligence Laboratory (CI Lab)** course at **Amirkabir University of Technology (AUT)**.  
 The course explores modern computational intelligence techniques, combining theory and practice through hands-on coding exercises in **MATLAB** and **Python**.
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 The Computational Intelligence Lab focuses on implementing and understanding the core algorithms that form the foundation of **intelligent systems**, including:
 - Artificial Neural Networks  
@@ -17,7 +17,7 @@ Each lab assignment emphasizes both mathematical formulation and practical imple
 
 ---
 
-## 🧠 Topics & Experiments
+##  Topics & Experiments
 
 | Lab | Topic | Key Implementations |
 |------|--------|---------------------|
@@ -34,12 +34,30 @@ Each lab assignment emphasizes both mathematical formulation and practical imple
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 - **Languages:** Python, MATLAB  
 - **Libraries:** NumPy, Matplotlib, TensorFlow, scikit-learn, gym  
 - **Software:** MATLAB R2023 / Python 3.10  
 - **Platform:** Windows / Linux  
 
+
 ---
 
-## 📁 Repository Structure
+##  Learning Outcomes
+- Implement and analyze various **computational intelligence algorithms**.  
+- Develop and simulate **neural systems**.  
+- Apply **reinforcement learning** to dynamic environments.  
+- Gain hands-on experience with both **MATLAB** and **Python**.  
+
+---
+
+##  Author
+**Setayesh Khasehtarash**  
+Computational Intelligence Lab — Amirkabir University of Technology  
+
+---
+
+##  License
+This repository is intended for educational use as part of the Computational Intelligence Laboratory course at AUT.
+
+
